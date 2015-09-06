@@ -45,6 +45,18 @@ img {
   width: 95%;
 }
 
+.img-circle {
+    border-radius: 50%;
+}
+
+/* #services {
+  color: #649662;
+}
+
+#about {
+  color: #649662;
+} */
+
 .row {
   padding-bottom: 10px;
 }

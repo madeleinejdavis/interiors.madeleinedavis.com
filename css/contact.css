@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Questrial);
 
 * {
-  font-family: 'Questrial', sans-serif;
-  font-size: 12px;
-  text-transform: uppercase;
+  font-family: 'Questrial', sans-serif !important;
+  font-size: 12px !important;
+  text-transform: uppercase !important;
 }

@@ -12,6 +12,7 @@
   padding: 10px 15px !important;
 }
 
-.requiredfield:after {
-  color: #000 !important;
+#id123-button-send {
+  padding: 10px 15px !important;
+
 }

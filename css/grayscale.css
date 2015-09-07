@@ -63,11 +63,26 @@ img {
 
 .col-md-3 {
   padding-left: 50px;
+
 }
 
 .col-md-9 {
   padding: 50px;
 }
+
+/* #about {
+    width: 100%;
+    padding: 50px 0;
+    margin-top: 80px;
+    color: #fff;
+    background: url(../img/background.jpg) no-repeat center center scroll;
+    background-color: #fff;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+*/
 
 @media(min-width:768px) {
     p {
@@ -294,17 +309,18 @@ a:focus {
     padding-top: 100px;
 }
 
-.download-section {
+/*.services-section {
     width: 100%;
     padding: 50px 0;
     color: #fff;
-    background: url(../img/downloads-bg.jpg) no-repeat center center scroll;
+    background: url(../img/background.jpg) no-repeat center center scroll;
     background-color: #fff;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
 }
+*/
 
 #map {
     width: 100%;

@@ -10,3 +10,7 @@
 .class123-button {
   padding: 10px 15px !important;
 }
+
+.requiredfield:after {
+  color: #000;
+}

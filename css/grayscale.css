@@ -431,7 +431,6 @@ body {
 }
 
 #formwrapper {
-  float: none;
   text-align: center;
   display: inline-block;
 }

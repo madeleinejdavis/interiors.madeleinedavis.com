@@ -4,4 +4,9 @@
   font-family: 'Questrial', sans-serif !important;
   font-size: 12px !important;
   text-transform: uppercase !important;
+  font-weight:normal !important;
+}
+
+.class123-button {
+  padding: 10px 15px !important;
 }

@@ -49,6 +49,15 @@ img {
     border-radius: 50%;
 }
 
+.logo {
+  width: 40px;
+  border-radius: 50%;
+}
+
+.navbar-brand {
+  padding-top: 5px;
+}
+
 /* #services {
   color: #649662;
 }

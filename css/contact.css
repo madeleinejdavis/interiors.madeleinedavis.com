@@ -8,13 +8,12 @@
   color: #000 !important;
 }
 
-.class123-button {
-  padding: 10px 15px !important;
-}
-
-#id123-button-send {
-  padding: 10px 15px !important;
-
+.class123-button{
+  color: black;
+  background: white;
+  border: 1px solid black;
+  margin: 0;
+  padding: 10;
 }
 
 #id123-control14215318,

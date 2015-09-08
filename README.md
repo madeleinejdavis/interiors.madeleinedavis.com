@@ -19,4 +19,4 @@ On a sleepy street in Park Slope, Brooklyn, there sits a turn of the century Tow
 
 # About
 
-Madeleine is a life long organizer and design nut. She was born, raised and is living in Brooklyn, NY. She graduated with a BFA in Furniture Design from the Rhode Island School of Design. She's a nester who loves to help others master their organizational fears and rouse their inner interior designer. She loves a good read and a happy dog.
+I am a life long organizer and design nut. I was born, raised and am living in Brooklyn, NY. I graduated with a BFA in Furniture Design from the Rhode Island School of Design. I am a nester who loves to help others master their organizational fears and rouse their inner interior designer. I love a good read and a happy dog.

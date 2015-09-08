@@ -5,11 +5,11 @@ One page portfolio website built using Bootstrap and the [Grayscale] (http://sta
 
 # Mission
 
-As a designer and professional organizer, my mission is to be your champion when your belongings or space has overwhelmed you. My goal is to make every space a unique, organized and well designed home. We will work together to organize, modernize and pair down your belongings; to turn your space into a clean and functional environment. We will take an honest look at your home aspirations and its potential. Whether we tackle one closet, one room or an entire house, I will help you reach those goals and stay on budget. It will be a messy and creative process, full of problems to be solved, but I will help you create, design and execute your dream home.
+As a designer and professional organizer, my mission is to be your champion when your belongings or space has overwhelmed you. My goal is to make every space a unique, organized and well designed environment. We will work together to organize, modernize and pare down your belongings; to turn your space into a clean and functional home. We will take an honest look at your aspirations and create a space where they can be realized. Whether we tackle one closet, one room or an entire house, I will help you reach those goals and stay on budget. It will be a messy and creative process, full of problems to be solved, but I will help you create, design and execute your dream space.
 
 # Services
 
-My services range from the macro to the micro. I work on entire home renovations, closet and moving organization, and everything in-between. We can clean and organize your existing possessions or start from scratch, or a mixture of the two. So let’s talk and figure out how best we can work together. Initial consultations are free.
+My services range from the macro to the micro. I work on entire home renovations, closet organization, moving projects, and everything in-between. We can clean, organize and rearrange your existing possessions or start from scratch, or a mixture of the two. Initial consultations are free. So let’s talk and figure out how best we can work together.
 
 # Projects
 
@@ -19,4 +19,4 @@ On a sleepy street in Park Slope, Brooklyn, there sits a turn of the century Tow
 
 # About
 
-I am a life long organizer and design nut. I was born, raised and am living in Brooklyn, NY. I graduated with a BFA in Furniture Design from the Rhode Island School of Design. I am a nester who loves to help others master their organizational fears and rouse their inner interior designer. I love a good read and a happy dog.
+I am a life long organizer and design nut. I was born, raised and am living in Brooklyn, NY. I graduated with a BFA in Furniture Design from the Rhode Island School of Design. To see my furniture portfolio visit <a href="http://furniture.madeleinedavis.com/" target="_blank">furniture.madeleinedavis.com</a>. I am a nester who loves to help others master their organizational fears and rouse their inner interior designer. I love a good read and a happy dog. See what inspires me at <a href="http://madeleinedvs.tumblr.com/" target="_blank">madeleinedvs.tumblr.com.</a>

@@ -49,14 +49,6 @@ img {
     border-radius: 50%;
 }
 
-.logo {
-  width: 40px;
-}
-
-.navbar-brand {
-  padding-top: 5px;
-}
-
 /* #services {
   color: #649662;
 }
@@ -101,7 +93,7 @@ img {
 }
 
 a {
-    color: #42dca3;
+    color: #977641;
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
@@ -110,7 +102,7 @@ a {
 a:hover,
 a:focus {
     text-decoration: none;
-    color: #42dca3;
+    color: #977641;
 }
 
 .light {
